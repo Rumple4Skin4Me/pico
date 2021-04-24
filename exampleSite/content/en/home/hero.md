@@ -23,6 +23,10 @@ hero_media = "/img/portrait.jpg"
   url = "#contact"
   label = 'Contact me'
 
+[[btn]]
+  url = "#https://www.jw.org/en/whats-new/"
+  label = 'What's New?'
+
 +++
 
 # A theme to **express** your ideas.
